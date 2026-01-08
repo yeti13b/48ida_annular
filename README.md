@@ -10,12 +10,12 @@ Entry at ~21 degrees (10 degree taper)
 Choke length equals the diameter of choke
 Exit at ~10 degrees (5 degree taper) Suggested ranger is between 5-15 degrees
 ## Sources:
-[https://www.sciencedirect.com/topics/engineering/venturi-tube](https://www.sciencedirect.com/topics/engineering/venturi-tube)
-[One-Dimensional Flow](https://www.sciencedirect.com/science/article/pii/B978008102437900005X)
-[Measurement of fluid flow](https://www.sciencedirect.com/science/article/pii/B9780750616836500527)
-[Velocity and mass flow by pressure measurements](https://www.sciencedirect.com/science/article/pii/B9781845699925500024)
-[Recent Developments in Hydrodynamic Cavitation Reactors: Cavitation Mechanism, Reactor Design, and Applications](https://www.sciencedirect.com/science/article/pii/S2095809922007081)
-[Measurement of Flow](https://www.sciencedirect.com/science/article/pii/B9780750683081000061)
+- [https://www.sciencedirect.com/topics/engineering/venturi-tube](https://www.sciencedirect.com/topics/engineering/venturi-tube)
+- [One-Dimensional Flow](https://www.sciencedirect.com/science/article/pii/B978008102437900005X)
+- [Measurement of fluid flow](https://www.sciencedirect.com/science/article/pii/B9780750616836500527)
+- [Velocity and mass flow by pressure measurements](https://www.sciencedirect.com/science/article/pii/B9781845699925500024)
+- [Recent Developments in Hydrodynamic Cavitation Reactors: Cavitation Mechanism, Reactor Design, and Applications](https://www.sciencedirect.com/science/article/pii/S2095809922007081)
+- [Measurement of Flow](https://www.sciencedirect.com/science/article/pii/B9780750683081000061)
 
 # Discharge holes
 The question is how many holes and at what size.
