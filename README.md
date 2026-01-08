@@ -4,7 +4,7 @@ collection of notes on annular discharge venturi for Weber 48 IDA
 # Thanks
 What initiated this project was a post I came across on [AusRotary by bumpstart](https://www.ausrotary.com/viewtopic.php?t=252116). He is a huge inspiration and wealth of knowledge in the Rx-7 communities.
 
-# General venturi shape:
+# General venturi shape
 The following articles all generally suggest the same set of guidelines
 Entry at ~21 degrees (10 degree taper)
 Choke length equals the diameter of choke
