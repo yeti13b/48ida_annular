@@ -39,7 +39,10 @@ This post gave me a size 1.57mm (.062in) and count 9 for the discharge holes. So
 
 We also need to calculate the area of Dave's 9 holes at 1.57mm
 
+>Area of one: <br>
 >3.14 * (.785)^2 = 1.934 mm^2
+>
+>Multiply by nine: <br>
 >1.93 * 9 = 17.41 mm
 
 So, if my calculations and understanding is right it appears Dave's annular discharge holes where just a little undersized. I'm not sure if this was by design or luck. I could very well be entirely wrong.
