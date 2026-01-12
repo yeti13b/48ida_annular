@@ -48,3 +48,6 @@ We also need to calculate the area of Dave's 9 holes at 1.57mm
 So, if my calculations and understanding is right it appears Dave's annular discharge holes where just a little undersized. I'm not sure if this was by design or luck. I could very well be entirely wrong.
 
 More on this topic later.
+
+# Interesting links about ADV
+[David Vizard - Starting with a can of beans we increased power by as much as 50 hp](https://youtu.be/QLN88FZMnwE?si=QT6VADJTNVERVNwI&t=587)
