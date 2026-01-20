@@ -49,5 +49,7 @@ So, if my calculations and understanding is right it appears Dave's annular disc
 
 More on this topic later.
 
-# Interesting links about ADV
-[David Vizard - Starting with a can of beans we increased power by as much as 50 hp](https://youtu.be/QLN88FZMnwE?si=QT6VADJTNVERVNwI&t=587)
+# Interesting links
+[David Vizard - Starting with a can of beans we increased power by as much as 50 hp](https://youtu.be/QLN88FZMnwE?si=QT6VADJTNVERVNwI&t=587) -- _briefly discusses venturi types_
+## Tools
+[Erik's O-Ring Calculator](https://oringcalculator.eriksgroup.com/) -- _this allows one to enter either the o-ring, groove, or both dimensions and calculate fitment_
