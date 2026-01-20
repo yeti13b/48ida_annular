@@ -8,7 +8,7 @@ What initiated this project was a post I came across on [AusRotary by bumpstart]
 The following articles all generally suggest the same set of guidelines
 Entry at ~21 degrees (10 degree taper)
 Choke length equals the diameter of choke
-Exit at ~10 degrees (5 degree taper) Suggested ranger is between 5-15 degrees
+Exit at ~10 degrees (5 degree taper) Suggested range is between 5-15 degrees
 ## Sources:
 - [https://www.sciencedirect.com/topics/engineering/venturi-tube](https://www.sciencedirect.com/topics/engineering/venturi-tube)
 - [One-Dimensional Flow](https://www.sciencedirect.com/science/article/pii/B978008102437900005X)
