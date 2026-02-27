@@ -1,9 +1,9 @@
 # 48ida_annular
 collection of notes on annular discharge venturi for Weber 48 IDA
 
-| | |
-|---|---|
 |![isometric view of annular discharge venturi](iso_cut.png)| ![front view of annular discharge venturi](front_cut.png) |
+|---|---|
+| *isometric view of annular discharge venturi* | *front view of annular discharge venturi* |
 
 # General venturi shape
 The following articles all generally suggest the same set of guidelines
