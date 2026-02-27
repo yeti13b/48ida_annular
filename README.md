@@ -1,14 +1,17 @@
 # 48ida_annular
 collection of notes on annular discharge venturi for Weber 48 IDA
 
-# Thanks
-What initiated this project was a post I came across on [AusRotary by bumpstart](https://www.ausrotary.com/viewtopic.php?t=252116). He is a huge inspiration and wealth of knowledge in the Rx-7 communities.
+| | |
+|---|---|
+|![isometric view of annular discharge venturi](iso_cut.png)| ![front view of annular discharge venturi](front_cut.png) |
 
 # General venturi shape
 The following articles all generally suggest the same set of guidelines
 Entry at ~21 degrees (10 degree taper)
 Choke length equals the diameter of choke
 Exit at ~10 degrees (5 degree taper) Suggested range is between 5-15 degrees
+
+While I didn't exactly follow those guidelines the elliptical radius is close enough. The entry is ~13 deg and the exit is ~5 deg. Unfortunately, my design has the choke length under the suggested length. Perhaps this should be fixed in a later version. For now it seems to work.
 ## Sources:
 - [https://www.sciencedirect.com/topics/engineering/venturi-tube](https://www.sciencedirect.com/topics/engineering/venturi-tube)
 - [One-Dimensional Flow](https://www.sciencedirect.com/science/article/pii/B978008102437900005X)
@@ -47,9 +50,18 @@ We also need to calculate the area of Dave's 9 holes at 1.57mm
 
 So, if my calculations and understanding is right it appears Dave's annular discharge holes where just a little undersized. I'm not sure if this was by design or luck. I could very well be entirely wrong.
 
-More on this topic later.
+Later I had the bright idea of asking chatGPT for assistance. Perhaps it's my lack of experience but it seemed to be fairly versed in the science of carbs. The following are some highlights of the chat:
+
+​​![](discharge_calc.png)
+​
+### More from #84Dave:
+- [Re: Carburetor Venturi Shapes Obsolete ?](https://www.speed-talk.com/forum/viewtopic.php?t=27310)
+- [Re: Isn't it time for a NEW racing carburetor?](https://www.speed-talk.com/forum/viewtopic.php?p=304967&sid=e29d703854464c2ed949440f4e2622f6#p304967)
 
 # Interesting links
 [David Vizard - Starting with a can of beans we increased power by as much as 50 hp](https://youtu.be/QLN88FZMnwE?si=QT6VADJTNVERVNwI&t=587) -- _briefly discusses venturi types_
 ## Tools
 [Erik's O-Ring Calculator](https://oringcalculator.eriksgroup.com/) -- _this allows one to enter either the o-ring, groove, or both dimensions and calculate fitment_
+
+# Thanks
+What initiated this project was a post I came across on [AusRotary by bumpstart](https://www.ausrotary.com/viewtopic.php?t=252116). He is a huge inspiration and wealth of knowledge in the Rx-7 communities.
