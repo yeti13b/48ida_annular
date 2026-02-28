@@ -1,7 +1,7 @@
 # 48ida_annular
-collection of notes on annular discharge venturi for Weber 48 IDA
+collection of notes on annular discharge venturi for Weber 48 IDA.
 
-|![isometric view of annular discharge venturi](iso_cut.png)| ![front view of annular discharge venturi](front_cut.png) |
+|![isometric view of annular discharge venturi](img/iso_cut.png)| ![front view of annular discharge venturi](img/front_cut.png) |
 |:---:|:---:|
 | *isometric view of annular discharge venturi* | *front view of annular discharge venturi* |
 
@@ -52,7 +52,7 @@ So, if my calculations and understanding is right it appears Dave's annular disc
 
 Later I had the bright idea of asking chatGPT for assistance. Perhaps it's my lack of experience but it seemed to be fairly versed in the science of carbs. The following are some highlights of the chat:
 
-​​![](discharge_calc.png)
+​​![ai generated math formulas](img/discharge_calc.png)
 ​
 ## More from #84Dave:
 - [Re: Carburetor Venturi Shapes Obsolete ?](https://www.speed-talk.com/forum/viewtopic.php?t=27310)
