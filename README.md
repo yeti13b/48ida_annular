@@ -54,14 +54,17 @@ Later I had the bright idea of asking chatGPT for assistance. Perhaps it's my la
 
 ​​![](discharge_calc.png)
 ​
-### More from #84Dave:
+## More from #84Dave:
 - [Re: Carburetor Venturi Shapes Obsolete ?](https://www.speed-talk.com/forum/viewtopic.php?t=27310)
 - [Re: Isn't it time for a NEW racing carburetor?](https://www.speed-talk.com/forum/viewtopic.php?p=304967&sid=e29d703854464c2ed949440f4e2622f6#p304967)
 
-# Interesting links
-[David Vizard - Starting with a can of beans we increased power by as much as 50 hp](https://youtu.be/QLN88FZMnwE?si=QT6VADJTNVERVNwI&t=587) -- _briefly discusses venturi types_
-## Tools
+# Steps
+To step or not? I read a little bit about adding a step to promote shearing the fuel off the walls but couldn't really find a value for how deep it should be. My initial guess was likely 1mm but AI had suggested ~0.5 mm. Then I found at least two different designs; a total cutout or a ring channel. According to the following video it seems the results are no step at all.
+
+[David Vizard - Starting with a can of beans we increased power by as much as 50 hp](https://youtu.be/QLN88FZMnwE?si=QT6VADJTNVERVNwI&t=587) 
+
+# Tools
 [Erik's O-Ring Calculator](https://oringcalculator.eriksgroup.com/) -- _this allows one to enter either the o-ring, groove, or both dimensions and calculate fitment_
 
 # Thanks
-What initiated this project was a post I came across on [AusRotary by bumpstart](https://www.ausrotary.com/viewtopic.php?t=252116). He is a huge inspiration and wealth of knowledge in the Rx-7 communities.
+What initiated this project was a post I came across on AusRotary by bumpstart, "[IDA ADV](https://www.ausrotary.com/viewtopic.php?t=252116)." He has been a huge inspiration for this project and is wealth of knowledge in the Rx-7 communities.
